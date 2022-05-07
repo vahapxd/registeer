@@ -1,0 +1,45 @@
+{
+    "BotSettings": {
+        "token": "OTcxODE2MTgwNDE3NDMzNjgw.YnQAWA.I5woi061h-cDN-oHP6kaS-r7bEM",
+        "owner": "728931818182541392",
+        "prefix": ".",
+        "botStatus": "GECE ❤️ ASLI",
+        "botVoiceChannelID": "972157438990098504"
+    },
+    "Roles": {
+        "BoyRole1": "972157341699014776",
+        "BoyRole2": "972157341699014776",
+        "GirlRole1": "972157340436533279",
+        "GirlRole2": "972157340436533279",
+        "Unregister": "972157342646927360",
+        "Registerer": "972157268541984778",
+        "TagRole": "972157335810240612",
+        "Suspicious": "972157315572695090",
+        "Jail": "972157314746449930"
+    },
+        "Colors": {
+            "Red": "ff0000",
+            "Magenta": "660099",
+            "Black": "000000",
+            "Gold": "ffd700",
+            "Pink": "ffcbdb",
+            "Green": "66ff00",
+            "Yellow": "ffff00"
+    },
+        "ServerSettings": {
+            "ServerName": "G E C E",
+            "ServerID": "967454982012022866",
+            "Tag": "🧸",
+            "UnTag": "🧸"
+    },
+        "Channels": {
+            "RegisterChat": "972157475635728394",
+            "TagLog": "972165304123813928",
+            "Rules": "972157487845347368",
+            "GeneralChat": "972157559781884004"
+        },
+        "Welcome": {
+            "WelcomeChat": "972157475635728394",
+            "WelcomeName": "• İsim | Yaş"
+        }
+}
